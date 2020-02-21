@@ -1,5 +1,5 @@
 // The data/time we want to countdown to
-var countDownDate = new Date("Feburary 20, 2020 21:00:00").getTime();
+var countDownDate = new Date("Feburary 20, 2020 21:03:00").getTime();
 
 // Run myfunc every second
 var myfunc = setInterval(function() {
@@ -26,6 +26,6 @@ if (timeleft < 0) {
     document.getElementById("hours").innerHTML = "" 
     document.getElementById("mins").innerHTML = ""
     document.getElementById("secs").innerHTML = ""
-    document.getElementById("end").innerHTML = "TIME UP!!";
+    document.getElementById("end").innerHTML = "TIME'S UP!!";
 }
 }, 1000);
