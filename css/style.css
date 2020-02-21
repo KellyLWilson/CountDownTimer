@@ -20,3 +20,11 @@ p {
     alignment: center;
 }
 
+h2 {
+    display: inline;
+    font: tahoma;
+    font-size: 88px;
+    margin-top: 0px;
+    color: red;
+    alignment: center;
+}
