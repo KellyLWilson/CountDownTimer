@@ -4,7 +4,9 @@ body {
 
 h1 {
     display: inline;
-    ont-size: 100px;    
+    font: Luminari, fantasy;    
+    font-size: 100px; 
+    font-weight: bold    
     margin-top: 0px;
     color: coral;
 }    
