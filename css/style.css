@@ -2,11 +2,12 @@ body {
     background-color: gray;
 }
 
-p {
+h1, p {
     display: inline;
-    font: tahoma
-    font-size: 40px;
+    font: tahoma;
+    font-size: 66px;
     margin-top: 0px;
     color: coral;
+    alignment: center;
 }
 
