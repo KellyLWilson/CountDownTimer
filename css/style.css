@@ -4,7 +4,7 @@ body {
 
 h1 {
     display: inline;
-    font: Luminari, fantasy;    
+    font: Luminari;    
     font-size: 70px; 
     font-weight: bold    
     margin-top: 0px;
@@ -21,7 +21,7 @@ p {
 
 h2 {
     display: inline;
-    font: Chalkduster, fantasy;
+    font: Chalkduster;
     font-size: 88px;
     margin-top: 0px;
     color: red;
