@@ -4,8 +4,9 @@ body {
 
 h1 {
     display: inline;
-    font: tahoma;
-    ont-size: 100px;    
+    font: Luminari;    
+    font-size: 70px; 
+    font-weight: bold    
     margin-top: 0px;
     color: coral;
 }    
@@ -20,7 +21,7 @@ p {
 
 h2 {
     display: inline;
-    font: tahoma;
+    font: Chalkduster;
     font-size: 88px;
     margin-top: 0px;
     color: red;
